@@ -2,6 +2,8 @@
     <string name="app_name">AmberWallet</string>
     <string name="slogan">Turning Your Transactions into Financial Intelligence</string>
     <string name="user">User</string>
+    <string name="date_init">Date Init</string>
+    <string name="date_end">Date End</string>
     <string name="password">Password</string>
     <string name="log_in">Log in</string>
     <string name="footer">by Iago Porto</string>
